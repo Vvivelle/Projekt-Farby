@@ -1,0 +1,17 @@
+*{
+    margin: 30px;
+    padding: 10px;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    color: brown;
+}
+
+body {
+    background-image: url(hand-painted-watercolor-background-with-sky-clouds-shape.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
